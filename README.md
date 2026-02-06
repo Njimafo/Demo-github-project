@@ -8,7 +8,7 @@ A beautiful, real-time status dashboard for monitoring infrastructure and applic
 ## 🌐 Live Dashboard
 
 **Access the live dashboard at:**
-👉 **https://gaetanneo.github.io/Demo-github-project/**
+👉 **https://github.com/Njimafo/Demo-github-project**
 
 ## 📋 Features
 
@@ -23,7 +23,7 @@ A beautiful, real-time status dashboard for monitoring infrastructure and applic
 
 ### View the Dashboard
 
-Simply open: https://gaetanneo.github.io/Demo-github-project/
+Simply open: https://github.com/Njimafo/Demo-github-project/
 
 ### Update System Status
 
@@ -80,7 +80,7 @@ const applications = [
 
 ```html
 <iframe 
-  src="https://gaetanneo.github.io/Demo-github-project/" 
+  src="https://github.com/Njimafo/Demo-github-project/" 
   width="100%" 
   height="1400" 
   frameborder="0"
